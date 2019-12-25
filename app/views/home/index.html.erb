@@ -1,1 +1,9 @@
 <div id="calendar"></div>
+
+<table>
+  <tr><th><%=  %>合計が4の日</th></tr>
+  <% @sum4dates&.each do |date| %>
+    <tr><td><%= date.split('-').last %>></td></tr>
+  <% end %>
+
+</table>
