@@ -9,8 +9,9 @@ const App: React.FC = () => {
           <FullCalendar
               plugins={[ dayGridPlugin ]}
               initialView="dayGridMonth"
-              locale={'ja'}
+              locale='ja'
               businessHours={true}
+              contentHeight='auto'
               dayCellContent={(e) => e.dayNumberText = e.dayNumberText.replace('日', '')}
               events={(info, successCallback, failureCallback) => {
                   const startDate = info.start
