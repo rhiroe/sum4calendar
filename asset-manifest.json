@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sum4calendar/static/css/main.3346101b.css",
-    "main.js": "/sum4calendar/static/js/main.c5e0baa2.js",
+    "main.js": "/sum4calendar/static/js/main.ac67c7c3.js",
     "static/js/787.5d7bfca0.chunk.js": "/sum4calendar/static/js/787.5d7bfca0.chunk.js",
     "index.html": "/sum4calendar/index.html",
     "main.3346101b.css.map": "/sum4calendar/static/css/main.3346101b.css.map",
-    "main.c5e0baa2.js.map": "/sum4calendar/static/js/main.c5e0baa2.js.map",
+    "main.ac67c7c3.js.map": "/sum4calendar/static/js/main.ac67c7c3.js.map",
     "787.5d7bfca0.chunk.js.map": "/sum4calendar/static/js/787.5d7bfca0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3346101b.css",
-    "static/js/main.c5e0baa2.js"
+    "static/js/main.ac67c7c3.js"
   ]
 }
